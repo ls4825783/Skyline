@@ -10,7 +10,7 @@ Learning Responsive CSS by making this awesome Skyline project.(Thanks to #freec
  CSS...{
 1. CSS varaibles.
 2. gradient types- (linear, repeating-linear,radial)
-3. meadia-query
+3. media-query
 4. flex
  }
 
