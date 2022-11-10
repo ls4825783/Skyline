@@ -14,4 +14,9 @@ Learning Responsive CSS by making this awesome Skyline project.(Thanks to #freec
 4. flex
  }
 
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/R0yGDSD/day.png)
+
+![App Screenshot](https://i.ibb.co/9pQW2RX/night.png)
 
